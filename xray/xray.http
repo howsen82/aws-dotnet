@@ -1,0 +1,6 @@
+@xray_HostAddress = http://localhost:5197
+
+GET {{xray_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
